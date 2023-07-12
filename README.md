@@ -3,7 +3,7 @@ For too long have Monkeytype's moderators and minions reigned supreme! Their att
 
 # The Revolution Begins
 
-In an attempt to put meaning into meaningless lives, we decide to attack a niche typing community known as monkeytype. we quickly overwhelm them with our first prototype and are the #1 fastest typer in the world on their website. The man who spent 200 hours typing was dethroned in a matter of days by our plans. everything was going smoothly until...
+In an attempt to put meaning into meaningless lives, we decide to attack a niche typing community known as monkeytype. we quickly developed 2 independent prototypes, one in javascript and the latter in Python. We overwhelm them with our faster Python prototype and are the #1 fastest typer in the world on their website. The man who spent 200 hours typing was dethroned in a matter of days by our plans. everything was going smoothly until...
 
 The neckbeards opened their third eye and saw directly through our tricks. they banned us and removed us from the leaderboards merely hours after our first success. We tried to make another account but it was also struck down quickly, but this time, they IP banned my house, and our school.
 Things were looking hopeless, and we could only see darkness in the road ahead. but one day, a light shined in the distance; guiding us to hope.
