@@ -32,6 +32,5 @@ This is the most intelligent monkeytype bot ever created. You can run multiple i
 
 the only dependencies necessary are the latest version of chromedriver, selenium and pynput. version 4.0 is only capable of typing at about 600 wpm on my device, but the earlier versions can go up to 20000 wpm on a more capable device with pynput. the limiting factor is the browser at that point. 
 
-
-We would love for you to join the journey with us
-Discord server: 
+They cant stop all of us.
+#EndMonkeytype
