@@ -1,5 +1,5 @@
-# Taking On MonkeyType
-For too long have Monkeytype's moderators and minions reigned supreme! Their attempts to gatekeep and take advantage of the typing community have gone too far
+# Our Journey
+For too long have Monkeytype's moderators and minions reigned supreme! Their attempts to gatekeep and take advantage of the typing community have gone too far. We knew something had to be done.
 
 # The Revolution Begins
 
