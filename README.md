@@ -21,7 +21,8 @@ Time went on. We finished first semester finals, embraced the joyous respite of 
 
 Everything would've been over if not for one thing, the final exam of my class. While procrastinating studying for the test, I decided to publish our code and story for the world to see and enjoy. An idea also popped into my head. If we can get other people to run the program at night as well, our dream might not be that far away. Last night, I spent two hours updating the code in response to recent UI changes to the terrible website. 
 
-The code is now ready for mass deployment. 
+The code is now ready for mass deployment.
+Join the fight -- destroy MonkeyType with us!
 
 
 # MonkeyTypeDestroyer
