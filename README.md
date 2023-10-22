@@ -8,7 +8,7 @@ In an attempt to put meaning into meaningless lives, we decide to attack a niche
 The neckbeards opened their third eye and saw directly through our tricks. they banned us and removed us from the leaderboards merely hours after our first success. We tried to make another account but it was also struck down quickly, but this time, they IP banned my house, and our school.
 Things were looking hopeless, and we could only see darkness in the road ahead. but one day, a light shined in the distance; guiding us to hope.
 
-NONE SYSTEM-WIDE KEY PRESSES
+NON SYSTEM-WIDE KEY PRESSES
 With this revolutionary technology, we could now run multiple instances of the typer at once. We immediately began creating accounts that we would load into a program that allows 10 instances to run simultaneously and continuously for nights at a time, pushing those accounts onto the leaderboards. With this new breakthrough technology on our hands, we were initially hopeful of eventual success. As long as we persevere, automatically creating new accounts as soon as old ones are banned, the humans moderating the platform would stand no chance. Without the ability and expertise to automatically ban bot accounts. We were ignorant of what we were about to discover.
 
 # The Tyranny of The Numbers
